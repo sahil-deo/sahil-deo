@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sahil-deo
-- 👀 I’m interested in Game Development, Web Development (Front End and Back End), AI, ML
-- 🌱 I’m currently learning PHP and JS (along with some of its framw works)
+- 👀 I’m interested in Game Development, C++, ML
+- 🌱 I’m currently learning Advanced C++ while working on projects to implment sockets, multi-threading, win32 API, libcurl, etc...
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/sahildeoconnect/
