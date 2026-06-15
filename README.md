@@ -1,5 +1,5 @@
 ## Sahil
-Learning Rust<br>Interested in Web3, Competitive Programming, Algotrading, Low level development, HFT<br>Knows C++, Rust, Solidity, Go, Python
+Learning Go<br>Interested in Web3, Competitive Programming, Algotrading, Low level development, HFT<br>Knows C++, Go, Python, Solidity, Rust
 
 
 ## Connect:
